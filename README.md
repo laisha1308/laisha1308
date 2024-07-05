@@ -18,9 +18,6 @@
 ### 🔝 Top de contribuciones:
 ![](https://github-contributor-stats.vercel.app/api?username=laisha1308&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random meme:
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=laisha1308&icon=7&color=11)](https://visitcount.itsvg.in)
 
